@@ -31,7 +31,7 @@
     "@nestjsx/crud-typeorm": "^4.6.2",
     "class-transformer": "^0.2.3",
     "class-validator": "^0.12.2",
-    "file-type": "^14.6.2",
+    "file-type": "^16.5.4",
     "git": "^0.1.5",
     "git-win": "^2.3.0",
     "jsonwebtoken": "^8.5.1",
